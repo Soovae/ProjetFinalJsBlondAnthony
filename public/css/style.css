@@ -312,6 +312,32 @@ input:focus, textarea:focus{
     margin-bottom:35px;
 }
 
+/*CSS Portfolio*/
+
+.img-margin{
+    margin-bottom:15px;
+}
+
+#titrepage{
+    text-align:center;
+    margin-top:25px;
+    margin-bottom:25px;
+}
+
+.imgbackport{
+    height:100vh;
+    margin-top:50px;
+    background-image: url(../img/imgbackport.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.horde{
+    text-align:center;
+    margin-top:25px;
+}
+
 /*CSS pour les parametres JS*/
 
 .changepolice{

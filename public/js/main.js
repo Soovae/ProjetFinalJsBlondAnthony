@@ -94,3 +94,9 @@ function clickdiv(){
     }
 }
 
+//Bouton redirection portfolio.html
+
+let bouton7 = document.querySelector("#Pbutton");
+bouton7.addEventListener('click', () =>{
+    window.open("../public/html/portfolio.html");
+})
